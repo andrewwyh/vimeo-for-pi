@@ -7,3 +7,4 @@ This setup sets up Raspberry Pi in Kiosk mode, and plays back a Vimeo stream (or
 - set_display.sh is a shortcut to set the DISPLAY and Xauthority parameters ( run $source set_display.sh)
 - style.css contains settings to disable scrollbars
 
+Credits: https://pimylifeup.com/raspberry-pi-kiosk/
